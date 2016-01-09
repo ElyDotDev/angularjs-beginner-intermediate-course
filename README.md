@@ -8,7 +8,7 @@
 </p>
 <ul dir="rtl">
 <li><a href="http://blog.allii.ir/2016/01/angularjs-begineer-intermediate-course-introduction/">معرفی (Introduction)</a>
-	<ul>
+	<ul style="margin-right:2em;">
 		<li><a href="http://blog.allii.ir/2016/01/angularjs-begineer-intermediate-course-introduction/#angularjs_introduction">معرفی AngularJS</a></li>
 		<li><a href="http://blog.allii.ir/2016/01/angularjs-begineer-intermediate-course-introduction/#what_is_angularjs">AngularJS چیست؟</a></li>
 		<li><a href="http://blog.allii.ir/2016/01/angularjs-begineer-intermediate-course-introduction/#client_side_application_solution">راهکار کاملی برای اپلیکیشن سمت-کاربر</a></li>
