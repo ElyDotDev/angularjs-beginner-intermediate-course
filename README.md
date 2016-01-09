@@ -1,10 +1,12 @@
 <h1 dir="rtl"><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-courcse-start/">فایل‌های دوره آموزش AngularJS</a></h1>
+<p dir="rtl">
 دوره‌ آموزش AngularJS دوره‌ای برای آشنایی با فریمورک AngularJS از سطح مبتدی تا متوسط است. در طی دوره‌ آموزش AngularJS از ساده‌ترین مفاهیم این فریمورک شروع خواهیم کرد و گام به گام با ویژگی‌ها، امکانات و نکات تولید برنامه‌ی تک صفحه‌ای (SPA – Single Page Application) با الگوی MVC آشنا خواهیم شد.
-
+</p>
 <h2 dir="rtl">سرفصل‌های دوره‌ آموزش AngularJS</h2>
 <p dir="rtl">
 برای دوره‌ آموزش AngularJS سرفصل‌هایی مطابق فهرست زیر در نظر گرفته شده. اما امکان تغییر این فهرست و کم یا زیاد شدن سرفصلی وجود دارد.
-<ul>
+</p>
+<ul dir="rtl">
 <li><a href="http://blog.allii.ir/2016/01/angularjs-begineer-intermediate-course-introduction/">معرفی (Introduction)</a>
 	<ul>
 		<li><a href="http://blog.allii.ir/2016/01/angularjs-begineer-intermediate-course-introduction/#angularjs_introduction">معرفی AngularJS</a></li>
@@ -29,7 +31,7 @@
 <li>مسیر‌یابی (Routing)</li>
 <li>HTTP</li>
 <li>بخش پایانی</li>
-</p>
+
 
 <h2 dir="rtl">توضیحات</h2>
 <p dir="rtl">
