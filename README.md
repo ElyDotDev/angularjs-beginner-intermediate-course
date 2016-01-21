@@ -17,7 +17,14 @@
 		<li><a href="http://blog.allii.ir/2016/01/angularjs-begineer-intermediate-course-introduction/#about_course">درباره دوره آموزش AngularJS</a></li>
 	</ul>
 </li>
-<li><a href="http://blog.allii.ir/2016/01/angularjs-begineer-intermediate-course-basics-part-one/">مبانی (Basics)</a></li>
+<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-basics/">مبانی (Basics)</a>
+<ul style="margin-right:10px;">
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-basics/#expressions">عبارات Expressions</a></li>
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-basics/#directives">رهنمود‌ها Directives</a></li>
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-basics/#scopes">حوزه‌ها Scopes</a></li>
+	
+	</ul>
+</li>
 <li>کنترل کننده‌ها (کنترلر Controller)</li>
 <li>حوزهها (اسکوپ Scope)</li>
 <li>مجموعه‌‌ها ( کالکشن‌ Collection)</li>
