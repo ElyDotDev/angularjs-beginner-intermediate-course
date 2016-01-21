@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- AngularJS 1.4.8 !-->
+    <script src="../src/angular.min.js"></script>
+</head>
+<body ng-app>
+<div ng-init="radioButton = 'Happy'">
+    <input type="radio" value="Happy" ng-model="radioButton"/> Happy
+    <input type="radio" value="Angry" ng-model="radioButton"/> Angry
+    <input type="radio" value="Sad" ng-model="radioButton"/> Sad
+    You are "<span ng-bind="radioButton"></span>", not?. Please Select!
+</div>
+</body>
+</html>

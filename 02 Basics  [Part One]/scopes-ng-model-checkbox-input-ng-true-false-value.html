@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- AngularJS 1.4.8 !-->
+    <script src="../src/angular.min.js"></script>
+</head>
+<body ng-app>
+    <input type="checkbox" ng-init="checkboxInput = 'Checked'" ng-model="checkboxInput" ng-true-value="'Checked'" ng-false-value="'not Checked'">
+    My input is "<span ng-bind="checkboxInput"></span>". Change it!
+</body>
+</html>

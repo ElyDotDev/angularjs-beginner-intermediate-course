@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- AngularJS 1.4.8 !-->
+    <script src="../src/angular.min.js"></script>
+</head>
+<body ng-app>
+    <div ng-init="validVariable = {property1: 'Im a property', arrayProperty: ['1','2']}">
+        -{{invalidVariable.arrayProperty[1]}}<br/>
+        -{{validVariable.invalidProperty.property1}}<br/>
+        -{{validVariable.arrayProperty[2]}}
+    </div>
+</body>
+</html>

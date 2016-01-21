@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- AngularJS 1.4.8 !-->
+    <script src="../src/angular.min.js"></script>
+</head>
+<body ng-app>
+<div id="form_wrapper" ng-init="notSubmitted = true">
+    <form ng-show="notSubmitted">
+        <input type="text" name="feedback"/>
+        <input type="submit" value="Submit Feedback" ng-click="notSubmitted = !notSubmitted"/>
+    </form>
+    <div ng-hide="notSubmitted">Thanks for submitting your feedback!</div>
+</div>
+</body>
+</html>

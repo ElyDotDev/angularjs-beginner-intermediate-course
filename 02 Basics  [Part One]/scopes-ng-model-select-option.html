@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- AngularJS 1.4.8 !-->
+    <script src="../src/angular.min.js"></script>
+</head>
+<body ng-app>
+    <select ng-init="selectOption = 'Happy'" ng-model="selectOption">
+        <option value="Happy">Happy</option>
+        <option value="Angry">Angry</option>
+        <option value="Sad" selected>Sad</option>
+    </select>
+    You are "<span ng-bind="selectOption"></span>", not?. Please Select!
+</body>
+</html>
