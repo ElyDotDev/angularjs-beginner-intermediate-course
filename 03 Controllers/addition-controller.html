@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- AngularJS 1.4.8 !-->
+    <script src="../src/angular.min.js"></script>
+    <script src="module.js"></script>
+    <script src="addition-controller.js"></script>
+</head>
+<body ng-app="app">
+<p ng-controller="AdditionController">
+    <select ng-model="operand1" ng-options="x for x in options"></select>
+    + <select ng-model="operand2" ng-options="x for x in options"></select>
+    = {{add()}}
+</p>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- AngularJS 1.4.8 !-->
+    <script src="../src/angular.min.js"></script>
+    <script src="module.js"></script>
+    <script src="message-controller-as.js"></script>
+</head>
+<body ng-app="app">
+<p ng-controller="MessageController as controller">
+    {{controller.message}}
+</p>
+</body>
+</html>

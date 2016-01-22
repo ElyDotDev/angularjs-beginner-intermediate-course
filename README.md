@@ -25,7 +25,18 @@
 	
 	</ul>
 </li>
-<li>کنترل کننده‌ها (کنترلر Controller)</li>
+<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-controllers/">کنترل‌گرها (کنترلر Controller)</a>
+<ul style="margin-right:10px;">
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-controllers/#ng_controller_directive">رهنمود ng-controller</a></li>
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-controllers/#create_model">ایجاد مدل</a></li>
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-controllers/#contoller_as_propertyname">کنترل‌گر بعنوان نام‌خاصیت (Controller as propertyName)</a></li>
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-controllers/#dependency_injection">تزریق وابستگی‌ Dependency Injection</a></li>
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-controllers/#scope_object">شیء $scope</a></li>
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-controllers/#mode_view_controller">مدل-نمایش-کنترل‌گر Model-View-Controller</a></li>
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-controllers/#functions">قابلیت‌ها</a></li>
+		<li><a href="http://blog.allii.ir/2016/01/angularjs-beginner-intermediate-course-controllers/#callbacks">Callbacks</a></li>		
+	</ul>
+</li>
 <li>حوزهها (اسکوپ Scope)</li>
 <li>مجموعه‌‌ها ( کالکشن‌ Collection)</li>
 <li>ماژول‌ها (Module)</li>

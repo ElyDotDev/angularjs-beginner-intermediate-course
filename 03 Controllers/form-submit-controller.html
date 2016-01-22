@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- AngularJS 1.4.8 !-->
+    <script src="../src/angular.min.js"></script>
+    <script src="module.js"></script>
+    <script src="form-submit-controller.js"></script>
+</head>
+<body ng-app="app">
+<div id="form_wrapper" ng-controller="FormSubmitController">
+    <form ng-show="notSubmitted">
+        <input type="text" name="feedback"/>
+        <input type="submit" value="Submit Feedback" ng-click="toggle()"/>
+    </form>
+    <div ng-hide="notSubmitted">Thanks for submitting your feedback!</div>
+</div>
+</body>
+</html>

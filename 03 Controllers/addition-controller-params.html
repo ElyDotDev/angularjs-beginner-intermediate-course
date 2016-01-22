@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- AngularJS 1.4.8 !-->
+    <script src="../src/angular.min.js"></script>
+    <script src="module.js"></script>
+    <script src="addition-controller-params.js"></script>
+</head>
+<body ng-app="app">
+<p ng-controller="AdditionController">
+    {{add(number, 2)}} is not the same as {{add(number, "2")}}
+    <br>
+    2 + 2 + 2 + 2 = {{add(2, add(2, add(2, 2)))}}
+</p>
+</body>
+</html>
